@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# contacts-list-resp-api
-Applying 4 http methods: get, post, put and delete.
+
+A Contacts List App getting data from / to API applying 4 http methods: get, post, put and delete.
 =======
 # recente_dio
 
