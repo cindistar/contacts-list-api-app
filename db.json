@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "name": "Samuel Roberts",
+      "email": "ervinkl@melissa.com",
+      "photoUrl": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "company": "Google",
+      "age": 65,
+      "address": {
+        "street": "2847 Wayside Lane",
+        "city": "Madrid"
+      },
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      },
+      "id": 1
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "email": "patty_beer@kory.com",
+      "photoUrl": "https://images.pexels.com/photos/6735145/pexels-photo-6735145.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "company": "Tencent",
+      "age": 29,
+      "address": {
+        "street": "6219 Nicolas Drive",
+        "city": "Berlin"
+      },
+      "geo": {
+        "lat": "-71.4197",
+        "lng": "71.7478"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Lalisa Moon",
+      "email": "samy@blackpink.com",
+      "photoUrl": "https://images.pexels.com/photos/7103194/pexels-photo-7103194.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "company": "Alibaba Group",
+      "age": 25,
+      "address": {
+        "street": "2513 White Avenue",
+        "city": "San Francisco"
+      },
+      "geo": {
+        "lat": "-23.6527",
+        "lng": "-46.7564"
+      }
+    },
+    {
+      "name": "Cindy Lauper",
+      "email": "cindycraw@gmail.com",
+      "photoUrl": "https://images.pexels.com/photos/6642213/pexels-photo-6642213.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "company": "Dell",
+      "age": 28,
+      "address": {
+        "street": "872 Larry Street",
+        "city": "China"
+      },
+      "geo": {
+        "lat": "-23.6649",
+        "lng": "-46.7677"
+      },
+      "id": 9
+    },
+    {
+      "name": "Ada Lovelace 2",
+      "email": "lovelacethebes@gmail.com",
+      "photoUrl": "https://www.ufrgs.br/enigma/wp-content/uploads/2021/02/https-_dynaimage.cdn_.cnn_.com_cnn_x_357y_0w_539h_719c_crop_https3A2F2Fstamp.static.cnn_.io2F5bab86cf4db3d70020c01c3e2Fada2-e1613402491497.jpg",
+      "company": "Coder Tech",
+      "age": 206,
+      "address": {
+        "street": "Marybelone",
+        "city": "London"
+      },
+      "geo": {
+        "lat": "-76889",
+        "lng": "65777"
+      },
+      "id": 14
+    },
+    {
+      "name": "Grace Hopper",
+      "email": "gracetech@gmail.com",
+      "photoUrl": "https://miro.medium.com/max/1200/1*W7QpgyGBrYpD2VsL08XdaA.jpeg",
+      "company": "Queen of Computer World",
+      "age": 89,
+      "address": {
+        "street": "653 Tech Avenue ",
+        "city": "Los Angeles"
+      },
+      "geo": {
+        "lat": "-6286252",
+        "lng": "7762525"
+      },
+      "id": 15
+    },
+    {
+      "name": "Hedy Lamarr",
+      "email": "motherofwifi@spy.com",
+      "photoUrl": "https://funart.pro/uploads/posts/2019-12/1575283706_instagram-hedi-lamarr-18.jpg",
+      "company": "Hollywood",
+      "age": 107,
+      "address": {
+        "street": "344 Vienna Street",
+        "city": "Vienna"
+      },
+      "geo": {
+        "lat": "48.1947",
+        "lng": "16.3127"
+      },
+      "id": 16
+    },
+    {
+      "name": "Iaranita Miguel",
+      "email": "mybfffriend@hotmail.com",
+      "photoUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFXObPgOKY7Pg/profile-displayphoto-shrink_100_100/0/1625935121736?e=1640217600&v=beta&t=O01Lt6lCn-_mmDy7LFkmM-0LTotRimHpH0XyYQi42eA",
+      "company": "Jimmy Cat Corp",
+      "age": 27,
+      "address": {
+        "street": "Kpop World Street",
+        "city": "Sao Paulo"
+      },
+      "geo": {
+        "lat": "625256",
+        "lng": "828239"
+      },
+      "id": 17
+    },
+    {
+      "name": "Cindi Nishimoto",
+      "email": "cindi@gmail.com",
+      "photoUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFD4nNaU30tGA/profile-displayphoto-shrink_400_400/0/1633959253563?e=1640217600&v=beta&t=Z2FKt5AUOhuPdD7Wmqasz13U7Y2YZFnrAF-LlkIDKZ8",
+      "company": "Flutter Dev Company",
+      "age": 33,
+      "address": {
+        "street": "33 Dreams Avenue",
+        "city": "SP"
+      },
+      "geo": {
+        "lat": "24514",
+        "lng": "62565"
+      },
+      "id": 18
+    }
+  ]
+}
