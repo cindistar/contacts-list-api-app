@@ -27,4 +27,6 @@ The app uses the following packages:
  - [uuid](https://pub.dev/packages/uuid)
  - [google_fonts](https://pub.dev/packages/google_fonts)
 
+  # Note
   
+  This application uses setState method for state management which is built-in solution in Flutter.
