@@ -12,6 +12,18 @@ This project shows how to implement a contacts list app with CRUD.
   <img src="web/icons/cont_7.png" width="250" />
   <img src="web/icons/cont_8.png" width="250" />
 
+# App Overview
+  
 A Contacts List App getting data from / to API 
 applying 4 http methods: get, post, put and delete.
+I've also created a REST API JSON server in order to have my application running easily.
 
+# Packages
+
+The app uses the following packages:
+ 
+ - [dio](https://pub.dev/packages/dio)
+ - [uuid](https://pub.dev/packages/uuid)
+ - [google_fonts](https://pub.dev/packages/google_fonts)
+
+  
