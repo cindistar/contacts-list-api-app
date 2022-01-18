@@ -14,9 +14,9 @@ This project shows how to implement a contacts list app with CRUD.
 
 # App Overview
   
-A Contacts List App getting data from / to API 
+It's a Contacts List App getting data from / to API 
 applying 4 http methods: get, post, put and delete.
-I've also created a REST API JSON server in order to have my application running easily.
+I've also created a REST API JSON server in order to have my application running easily without further ado.
 
 # Packages
 
