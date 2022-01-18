@@ -29,4 +29,4 @@ The app uses the following packages:
 
   # Note
   
-  This application uses setState method for state management which is built-in solution in Flutter.
+  This application uses setState method for state management which is a built-in solution in Flutter.
